@@ -1,8 +1,0 @@
-package com.revature.enum_examples;
-
-public enum Season {
-	WINTER,
-	SPRING,
-	SUMMER,
-	FALL
-}

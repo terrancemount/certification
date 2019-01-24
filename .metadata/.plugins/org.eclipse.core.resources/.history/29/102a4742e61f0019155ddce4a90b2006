@@ -1,7 +1,0 @@
-package com.revature.enum_examples;
-
-public enum SeasonConstructor {
-	WINTER("Low"),SPRING("Medium"),SUMMER("High"),FALL("Medium");
-	private String expectedVisitors;
-	private SeasonConstructor
-}
