@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.revature.enum_examples&apos; to &apos;com.revature.EnumExamples&apos;&#x0A;- Original project: &apos;ChapterOne&apos;&#x0A;- Original element: &apos;ChapterOne/src/main/java/com.revature.enum_examples&apos;&#x0A;- Renamed element: &apos;ChapterOne/src/main/java/com.revature.EnumExamples&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.revature.enum_examples&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.revature.enum_examples" name="com.revature.EnumExamples" qualified="false" references="true" stamp="1548343502846" textual="false" version="1.0"/>
+</session>
